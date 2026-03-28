@@ -53,6 +53,7 @@ export default function ApiExplorer() {
         options={{
           primaryColor: "#ff9800",
           scrollDuration: 500,
+          showProgress: true,
         }}
       />
       {/* SIDEBAR */}

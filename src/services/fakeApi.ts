@@ -54,6 +54,7 @@ export const getAbout = async () => {
       name: "Muh. Ismail Herianto",
       role: "Full Stack Developer",
       focus: "Web Development",
+      email: "ianlotus35@gmail.com",
     },
   };
 };
